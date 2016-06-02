@@ -12,6 +12,9 @@ public class FunWithVariables {
 		boolean boolean1 = true;
 		boolean boolean2 = false;
 		
+		String string1 = "Hiro";
+		String string2 = "is awesome";
+		
 
 	}
 
